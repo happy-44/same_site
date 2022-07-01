@@ -1,0 +1,50 @@
+body{
+    margin-left: 5rem;
+    margin-right: 5rem;
+    margin-top: -0.5rem;
+    background-color: whitesmoke;
+}
+.bold{
+    font-size: 1.3rem;
+}
+.white{
+    background-color: white;
+    height: 20rem;
+    width:27rem;
+}
+
+.next{
+    margin-top: 2rem;
+    display: flex;
+}
+.photo{
+    margin-left: 5rem;
+}
+/* .h4class h4{
+   margin-left: 1.5rem;
+} */
+.h4class{
+    height: 3rem;
+    margin-top: -1rem;
+}
+.h4class h4{
+    padding-left: 2rem;
+    padding-top: 1rem;
+}
+.h4class:hover{
+    background-color: #0e3d5a;
+    color: white;
+}
+.text{
+    color:grey;
+}
+.text2{
+    color:grey;
+}
+.ims img:hover{
+    transform: scale(1.1);
+    transition-duration: 0.75s;
+}
+.ims{
+    overflow: hidden;
+}
